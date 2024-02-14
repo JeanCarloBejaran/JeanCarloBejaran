@@ -1,4 +1,4 @@
-### Hi there 👋
+### Thanks for dropping by! 👋
 
 <!--
 **JeanCarloBejaran/JeanCarloBejaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
