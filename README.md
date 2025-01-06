@@ -3,7 +3,7 @@
 # About Me
 ## Key Highlights
 
-- **Curiosity-Driven life-long learner**
+- **Curiosity driven life-long learner**
 - **Technological Proficiency** 
 - **Humanity-Focused**
 - **Interdisciplinary Expertise**
