@@ -12,7 +12,7 @@
   
 
 I strive to leverage technology and interdisciplinary tools to unlock my potential and pioneer a future where our natural needs are harmoniously balanced with our technological capabilities.
-With a strong background in **Energy and Environmental Engineering**, **Finances**, and **musical arts**, I leverage a diverse skill set to build holistic solutions. 
+With a strong background in **Energy and Environmental Engineering**, **Finances**, and **Musical Arts**, I leverage a diverse skill set to build holistic solutions. 
 My passions include learning, reading, writing, rhetoric, and building—driven by a relentless curiosity, the most crucial asset in the age of exponential technologies. 
 I aim to build systems that foster individual and collective betterment, ensuring a sustainable and enriched society.
 
