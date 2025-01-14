@@ -19,18 +19,18 @@ I aim to build systems that foster individual and collective betterment, ensurin
 # My Approach. Refine the pillars of:
 **Health, wealth, relationships, community, and connection to nature.**
 
-- **Human-Centric Strategy:** In an AI-driven world, I prioritize our balancing tech with our human qualities to stay relevant and impactful.
+- **Human-Centric Strategy:** In an AI-driven world, I prioritize balancing tech with our human qualities to stay relevant and impactful.
 - **Interdisciplinary Expertise:** Combining energy and environmental engineering, finance, and the arts to create comprehensive and sustainable solutions.
-- **Project-Driven Growth:** My projects enhance my health, wealth, relationships, and community/environment, continually refining my personal and professional growth.
-- **System Building:** I create systems that start with improving me with the vision of extending the systems to those around me.
+- **Project-Driven Growth:** My projects enhance my health, wealth, relationships, and community/environment, continually refining personal and professional growth.
+- **System Building:** I create systems that start with improving my immediate surroundings with the vision of extending the systems to those around me.
 
 # Expertise
 
 - **Core Tools:** Python programming, Data Engineering, ML, DL, leveraging Gen AI.
-- **Industries**: Energy, Environment, Finance, Economics, Blockchain, Data, Consulting, Renewable Energy System Sales. 
+- **Industries**: Energy, Environment, Finance, Economics, Blockchain, Data, Consulting, Renewable Energy System Sales, Government. 
 - **Engineering:** Energy and Environmental Engineering, Data software.
 - **Arts:** Music arts, Writing, Rhetoric, Dance.
-- **Supplemental Disciplines:** Passionate about History (Data), Psychology, sociology, Macro and microeconomics, generational theory. 
+- **Supplemental Disciplines:** Passionate about History (Data), Psychology, sociology, growth, performance sciences, Macro and microeconomics, and generational theory. 
 - **Focus Areas:** Unlocking human potential, balancing natural needs with technological advancements, building a holistic future.
 
 
